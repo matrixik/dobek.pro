@@ -1,3 +1,18 @@
-baseURL = "http://www.dobek.pro/"
-languageCode = "pl-pl"
 title = "Zrzut myśli"
+baseURL = "http://www.dobek.pro/"
+languageCode = "pl-PL"
+buildDrafts = false
+canonifyURLs = true
+
+theme = "cocoa-eh"
+contentDir = "content"
+layoutDir = "layouts"
+publishDir = "public"
+
+[taxonomies]
+category = "kategorie"
+tag = "tagi"
+
+[params]
+logofile = "img/logo.png"
+author = "Dobrosław Żybort"
