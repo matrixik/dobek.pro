@@ -1,5 +1,5 @@
 title = "Zrzut myśli"
-baseURL = "http://www.dobek.pro/"
+baseURL = "https://www.dobek.pro/"
 languageCode = "pl-PL"
 buildDrafts = false
 canonifyURLs = true
