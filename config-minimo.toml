@@ -55,16 +55,10 @@ pygmentsCodeFences = true
     page = "/:year/:month/:slug/"
 
 [[menu.main]]
-    name = "Dobek"
-    weight = -100
-    identifier = "Dobek"
-    url = "https://www.dobek.pro/"
-
-[[menu.main]]
     name = "Repo"
     weight = -70
     identifier = "repository"
-    url = "https://github.com/matrixik"
+    url = "https://github.com/matrixik/dobek.pro"
 
 # Language Configuration
 defaultContentLanguage = "pl"
