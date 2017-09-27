@@ -1,0 +1,77 @@
+baseURL = "https://www.dobek.pro"
+title = "Zrzut myśli"
+copyright = "Dobrosław Żybort"
+
+theme = "minimo"
+
+disqusShortname = ""
+googleAnalytics = ""
+Paginate = 5
+
+preserveTaxonomyNames = true
+pygmentsCodeFences = true
+
+[params]
+    description = "Trochę więcej wiedzy"
+    dateFormat = "2006-01-02"
+    copyrightOwner = "Dobrosław Żybort"
+    copyrightStartYear = "2017"
+    favicon = "favicon.ico"
+    hideEntryNavigation = false
+    customCSS = ["css/custom.css"]
+    customJS = ["js/custom.js"]
+    hideSocialMenu = false
+    showReadTime = false
+
+[params.seo]
+    # Title Separator: - – — · • * ⋆ | ~ « » < >
+    titleSeparator = "•"
+
+[params.opengraph]
+    [params.opengraph.facebook]
+        admins = ""
+        appid = ""
+
+[taxonomies]
+    category = "k"
+    tag = "t"
+
+[social]
+    facebook = ""
+
+[author]
+    name = "Matrixik"
+
+[author.social]
+    codepen = ""
+    email = "matrixik@gmail.com"
+    facebook = ""
+    github = "matrixik"
+    instagram = ""
+    twitter = "matrixik"
+    linkedin = "dobroslaw-zybort"
+
+[permalinks]
+    page = "/:year/:month/:slug/"
+
+[[menu.main]]
+    name = "Dobek"
+    weight = -100
+    identifier = "Dobek"
+    url = "https://www.dobek.pro/"
+
+[[menu.main]]
+    name = "Repo"
+    weight = -70
+    identifier = "repository"
+    url = "https://github.com/matrixik"
+
+# Language Configuration
+defaultContentLanguage = "pl"
+
+[languages]
+    # edit this block for your own language
+    [languages.en]
+        lang = "pl"
+        languageName = "Polski"
+        weight = 1
