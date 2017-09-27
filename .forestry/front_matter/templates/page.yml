@@ -1,0 +1,13 @@
+---
+hide_body: false
+fields:
+- name: comments
+  label: Comments
+  type: boolean
+  hidden: false
+  default: false
+- name: menu
+  label: Menu
+  type: text
+  hidden: true
+  default: main
