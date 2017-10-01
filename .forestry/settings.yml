@@ -6,5 +6,7 @@ new_page_extension: md
 auto_deploy: false
 admin_path: "/admin"
 webhook_url: 
-sections: 
+sections:
+  page:
+    default_front_matter_template: page
 version: '0.28'
