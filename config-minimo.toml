@@ -1,72 +1,85 @@
 baseURL = "https://www.dobek.pro"
 title = "Zrzut myśli"
-copyright = "Dobrosław Żybort"
+# for smart copyright line, leave this blank and check [params.copyright]
+copyright = ""
 
 theme = "minimo"
 
 disqusShortname = ""
 googleAnalytics = ""
+
 Paginate = 5
-
 preserveTaxonomyNames = true
-pygmentsCodeFences = true
 
-[params]
-    description = "Trochę więcej wiedzy"
-    dateFormat = "2006-01-02"
-    copyrightOwner = "Dobrosław Żybort"
-    copyrightStartYear = "2017"
-    favicon = "favicon.ico"
-    hideEntryNavigation = false
-    customCSS = ["css/custom.css"]
-    customJS = ["js/custom.js"]
-    hideSocialMenu = false
-    showReadTime = false
+# Syntax Highlighting ( https://gohugo.io/content-management/syntax-highlighting/ )
+pygmentsCodefences = true
+
+[params.info]
+description = "Trochę więcej wiedzy"
+title404 = "Przerwanie wiedzy!"
+
+[params.assets]
+favicon = "favicon.ico"
+hideEntryNavigation = false
+customCSS = ["css/custom.css"]
+customJS = ["js/custom.js"]
+gopher = "" # used in 404 template ( Generator: https://gopherize.me )
+
+[params.copyright]
+prefix = ""
+holder = "Dobrosław Żybort"
+startYear = "2017"
+suffix = ""
+
+[params.settings]
+# date & time format: https://golang.org/pkg/time/
+dateFormat = "2006-01-02"
+hideEntryNavigation = false
+hideSocialMenu = false
+showReadingTime = false
+
+[params.opengraph.facebook]
+admins = [] # array of Facebook IDs
+appID = ""
+pageID = ""
 
 [params.seo]
-    # Title Separator: - – — · • * ⋆ | ~ « » < >
-    titleSeparator = "•"
+# Title Separator: - – — · • * ⋆ | ~ « » < >
+titleSeparator = "•"
 
-[params.opengraph]
-    [params.opengraph.facebook]
-        admins = ""
-        appid = ""
+[params.social]
+codepen = ""
+email = "matrixik@gmail.com"
+facebook = ""
+github = "matrixik"
+instagram = ""
+twitter = "matrixik"
+linkedin = "dobroslaw-zybort"
 
 [taxonomies]
-    category = "k"
-    tag = "t"
-
-[social]
-    facebook = ""
-
-[author]
-    name = "Matrixik"
-
-[author.social]
-    codepen = ""
-    email = "matrixik@gmail.com"
-    facebook = ""
-    github = "matrixik"
-    instagram = ""
-    twitter = "matrixik"
-    linkedin = "dobroslaw-zybort"
+author = "autorzy"
+category = "k"
+tag = "t"
 
 [permalinks]
-    blog = "/:year/:month/:slug/"
-    page = "/:slug/"
+page = "/:slug/"
+blog = "/:year/:month/:slug/"
 
 [[menu.main]]
-    name = "Repo"
-    weight = -70
-    identifier = "repository"
-    url = "https://github.com/matrixik/dobek.pro"
+name = "Repo"
+weight = -10
+identifier = "repository"
+url = "https://github.com/matrixik/dobek.pro"
+
+[blackfriday]
+hrefTargetBlank = true
 
 # Language Configuration
 defaultContentLanguage = "pl"
 
 [languages]
-    # edit this block for your own language
-    [languages.en]
-        lang = "pl"
-        languageName = "Polski"
-        weight = 1
+# edit this block for your own language
+[languages.pl]
+lang = "pl"
+languageName = "Polski"
+weight = 1
