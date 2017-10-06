@@ -1,8 +1,8 @@
 ---
 title: "Kontakt"
-date: "2017-10-06T13:12:45+02:00"
-draft: true
-authors: ["matrixik"]
+description: "Strona kontaktowa"
+menu: main
+weight: -180
 ---
 
 <form name="contact" action="thank-you" netlify>
