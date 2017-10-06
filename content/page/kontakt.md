@@ -6,6 +6,9 @@ authors: ["matrixik"]
 ---
 
 <form name="contact" action="thank-you" netlify>
+  <p class="hidden">
+    <label>Proszę NIE wypełniać: <input name="bot-field"></label>
+  </p>
   <p>
     <label>Twoje Imię: <input type="text" name="name"></label>
   </p>
