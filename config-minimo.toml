@@ -65,8 +65,8 @@ platforms = ["email", "github", "linkedin", "twitter"]
 
 [taxonomies]
 author = "autorzy"
-category = "k"
-tag = "t"
+category = "ketegorie"
+tag = "tags"
 
 [permalinks]
 page = "/:slug/"

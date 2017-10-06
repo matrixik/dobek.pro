@@ -1,9 +1,12 @@
 +++
-autorzy = ["matrixik"]
-authors = ["matrixik"]
-date = "2017-10-01T09:30:41+00:00"
+date = "2017-10-01"
 title = "Test"
-
+lastmod = "2017-10-01"
+authors = ["matrixik"]
+ketegorie = [
+  "Bez kategorii"
+]
+tags = ["otagować"]
 +++
 
 
