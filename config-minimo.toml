@@ -60,6 +60,9 @@ instagram = ""
 twitter = "matrixik"
 linkedin = "dobroslaw-zybort"
 
+[params.social.config]
+platforms = ["email", "github", "linkedin", "twitter"]
+
 [taxonomies]
 author = "autorzy"
 category = "k"
