@@ -5,11 +5,12 @@ copyright = ""
 
 theme = "minimo"
 
-disqusShortname = ""
-googleAnalytics = ""
+disqusShortname = "dobek-pro"
+googleAnalytics = "UA-107708586-1"
 
-Paginate = 5
+Paginate = 10
 preserveTaxonomyNames = true
+rssURI = "rss"
 
 # Syntax Highlighting ( https://gohugo.io/content-management/syntax-highlighting/ )
 pygmentsCodefences = true
@@ -19,7 +20,7 @@ defaultContentLanguage = "pl"
 
 [params.info]
 description = "Trochę więcej wiedzy"
-title404 = "Przerwanie wiedzy!"
+title404 = "Tej wiedzy jeszcze nie mam"
 
 [params.assets]
 favicon = "favicon.ico"
@@ -64,8 +65,8 @@ linkedin = "dobroslaw-zybort"
 platforms = ["email", "github", "linkedin", "twitter"]
 
 [taxonomies]
-author = "autorzy"
-category = "ketegorie"
+author = "authors"
+category = "categories"
 tag = "tags"
 
 [permalinks]
