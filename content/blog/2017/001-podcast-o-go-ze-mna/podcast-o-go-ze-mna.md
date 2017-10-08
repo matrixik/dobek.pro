@@ -13,7 +13,7 @@ tags = ["Go", "golang", "podcast"]
 
 Po wielu miesiącach przekonywań Rafał "senssei" Warzycha
 z [Just4Fun](https://just4fun.io) w końcu przekonał mnie żeby zrobić podcast
-o Go. Poniżej link do nagrania:
+o Go. Nagranie wykonaliśmy w czerwcu 2017. Poniżej link do nagrania:
 
 [Just4Fun Extra - Odcinek 1 - O Go lang z Dobrosławem Żybortem]
 (https://just4fun.io/extra-odcinek-1-o-golang/)
