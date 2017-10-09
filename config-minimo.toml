@@ -10,13 +10,16 @@ googleAnalytics = "UA-107708586-1"
 
 Paginate = 10
 preserveTaxonomyNames = true
-rssURI = "rss"
 
 # Syntax Highlighting ( https://gohugo.io/content-management/syntax-highlighting/ )
 pygmentsCodefences = true
 
 # Language Configuration
 defaultContentLanguage = "pl"
+
+[outputFormats.RSS]
+mediatype = "application/rss"
+baseName = "rss"
 
 [params.info]
 description = "Trochę więcej wiedzy"
@@ -88,3 +91,4 @@ hrefTargetBlank = true
 lang = "pl"
 languageName = "Polski"
 weight = 1
+
