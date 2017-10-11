@@ -6,7 +6,7 @@ weight = -180
 comments = false
 +++
 
-<form name="contact" action="thank-you" netlify>
+<form name="contact" action="/wiadomosc-wyslana" netlify>
   <p class="hidden">
     <label>Proszę NIE wypełniać: <input name="bot-field"></label>
   </p>
