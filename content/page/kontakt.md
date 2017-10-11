@@ -1,9 +1,10 @@
----
-title: "Kontakt"
-description: "Strona kontaktowa"
-menu: main
-weight: -180
----
++++
+title = "Kontakt"
+description = "Strona kontaktowa"
+menu = "main"
+weight = -180
+comments = false
++++
 
 <form name="contact" action="thank-you" netlify>
   <p class="hidden">
