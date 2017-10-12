@@ -11,7 +11,7 @@ categories = [
 tags = ['tech', 'przyszłość', 'automatyzacja']
 +++
 
-Moje komentarze pod artykułem [Dlaczego potrzebujemy zagrożenia?](10-proc).
+Moje komentarze pod artykułem [Dlaczego potrzebujemy zagrożenia?][10-proc].
 
 Napisałem je w grudniu 2015 i nie uwzględniają one żadnych informacji o których
 dowiedziałem się w późniejszym terminie. Część danych jest już
