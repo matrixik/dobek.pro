@@ -29,7 +29,6 @@ title404 = "Tej wiedzy jeszcze nie mam"
 
 [params.assets]
 favicon = "favicon.ico"
-hideEntryNavigation = false
 customCSS = ["css/custom.css"]
 customJS = ["js/custom.js"]
 gopher = "" # used in 404 template ( Generator: https://gopherize.me )
@@ -44,7 +43,7 @@ suffix = ""
 # date & time format: https://golang.org/pkg/time/
 dateFormat = "2006-01-02"
 listDateFormat = "2006-01-02"
-hideEntryNavigation = false
+hideEntryNavigation = ["page"] # boolean / array of sections
 hideSocialMenu = false
 showReadingTime = false
 
