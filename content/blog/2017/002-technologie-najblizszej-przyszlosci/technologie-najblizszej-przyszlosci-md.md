@@ -99,4 +99,4 @@ Dobrosław Żybort => Filip
 > Pewnie większość osób będzie siedzieć więcej gapiąc się w telewizor, bądź na facebooku i tym podobnych marnowaczach czasu. Sam już prawie z nich nie korzystam, a próby przekonywania innych żeby też z nich zrezygnowali wygląda jak walenie głową w mur... Więc sobie darowałem.
 > Mimo wszytko więcej osób może zacząć jednak robić coś naprawdę interesującego. W Ameryce już 12-13 latki w swoich pokojach modyfikują genetycznie bakterie (używany zestaw na ebayu można dostać za 700$). Więc mimo że przytłaczająca większość będzie się jeszcze bardziej opier... to ta garstka ciekawych świata będzie nas coraz szybciej popychać do przodu (internet/łatwość i szybkość wymiany informacji to chyba najlepsza rzecz jaka mogła się nam przytrafić, dzisiaj każde dziecko w Mombasie ma dostęp do większej mocy obliczeniowej i ilości informacji niż jeszcze 20 lat temu miał prezydent USA i wszyscy możemy korzystać z ich kreatywności).
 
-[10-proc]: https://10-procent-rocznie.blogspot.com/2015/11/dlaczego-potrzebujemy-zagrozenia.html]
+[10-proc]: https://10-procent-rocznie.blogspot.com/2015/11/dlaczego-potrzebujemy-zagrozenia.html
