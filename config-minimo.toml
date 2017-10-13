@@ -78,7 +78,7 @@ tag = "tags"
 
 [permalinks]
 page = "/:slug/"
-blog = "/:year/:month/:slug/"
+blog = "/:year-:month-:slug/"
 
 [[menu.main]]
 name = "Repo"

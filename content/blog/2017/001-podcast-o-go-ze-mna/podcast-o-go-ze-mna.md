@@ -1,6 +1,7 @@
 +++
 title = "Podcast o Go ze mną"
 slug = "podcast-o-go-ze-mna"
+aliases = ['/2017/10/podcast-o-go-ze-mna']
 description = ""
 date = "2017-10-08T11:07:09+02:00"
 lastmod = "2017-10-08T11:07:09+02:00"

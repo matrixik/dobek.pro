@@ -1,6 +1,7 @@
 +++
 title = 'Technologie najbliższej przyszłości'
 slug = 'technologie-najblizszej-przyszlosci'
+aliases = ['/2017/10/technologie-najblizszej-przyszlosci']
 description = ''
 date = '2017-10-12'
 lastmod = '2017-10-12'
