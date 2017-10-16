@@ -1,0 +1,13 @@
+<head>
+  {{ partial "head/meta" . }}
+  <title>{{ partial "data/title" . }}</title>
+  <link rel='canonical' href='{{ .Permalink }}'>
+  {{ if .RSSLink }}
+    <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+  {{ end }}
+  {{ with .Site.GetPage "section" "blog" }}
+    <link href='{{- .Section | absURL -}}{{- .Site.RSSLink | relURL -}}' rel="alternate" type="application/rss+xml" title="{{ .Site.Title }} - Blog" />
+  {{ end }}
+  {{ partial "head/hreflang" . }}
+  {{ partial "head/includes" . }}
+</head>
