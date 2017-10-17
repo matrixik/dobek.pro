@@ -1,0 +1,14 @@
+collectors:
+- type: git-repo
+  path: repo_dependencies.yml
+  actors:
+  - type: find-replace
+    versions: "Y.Y"
+    dependencies: https://github.com/gohugoio/hugo
+    settings:
+      paths:
+      - netlify.toml
+      - repo_dependencies.yml
+      patterns:
+      - 'HUGO_VERSION = "{version_clean}"'
+      - 'installed: {version}'
