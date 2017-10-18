@@ -80,5 +80,9 @@ Eksportuję tutaj również dwie zmienne środowiskowe:
 
 `nvm alias default lts/*`
 
+Jako bonus mamy również lepsze autouzupełnianie w terminalu do NPM dzięki
+[zsh-better-npm-completion][npm-completion].
+
 [zsh-nvm]: https://github.com/lukechilds/zsh-nvm/
 [zplug]: https://github.com/zplug/zplug
+[npm-completion]: https://github.com/lukechilds/zsh-better-npm-completion
