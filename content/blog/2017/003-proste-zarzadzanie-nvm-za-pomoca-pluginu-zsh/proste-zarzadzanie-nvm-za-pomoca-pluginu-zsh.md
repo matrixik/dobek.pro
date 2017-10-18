@@ -6,7 +6,7 @@ date = '2017-10-18'
 lastmod = '2017-10-18'
 authors = ['matrixik']
 categories = [
-  'Technologia'
+  'Programowanie'
 ]
 tags = ['nvm', 'node', 'zsh', 'zplug']
 +++
