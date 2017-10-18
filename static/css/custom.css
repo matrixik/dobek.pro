@@ -1,4 +1,5 @@
-.entry-content > p > code {
+.entry-content > p > code,
+li > code {
   background: Moccasin;
 }
 
