@@ -27,13 +27,17 @@ Większość jest opisana w
 
 + Aplikacja wysyła logi prosto to serwisu zbierającego (u nas Logstash)
 + Zapisujemy logi do wolumenów Docker-a
-+ Korzystamy z [Docker-owergo drivera logów][docker-logging]
++ Korzystamy z [Docker-owego drivera logów][docker-logging]
 + Dedykowany kontener zbierający logi, jeden na całą maszynę
 + Podejście Sidecar, każdy kontener ma swój, dedykowany kontener zbierający logi
 
 Nie będę się tutaj rozpisywał o każdej z nich. Są dobrze opisane pod powyższym
 linkiem.
 
+Jest jeden problem z każdym z tych rozwiązań: nie ma obsługi wielolinijkowych
+("multiline") logów ponieważ Docker każdą linijkę traktuje jako oddzielny log.
+Niestery nie zapowiada się żeby to naprawili:
+[log driver should support multiline #22920][moby-multiline].
 
 ## Dedykowany kontener zbierający logi
 
@@ -202,3 +206,4 @@ do Elasticsearch-a oraz być widoczne w Kibanie.
 [logspout-logstash]: https://github.com/looplab/logspout-logstash
 [logspout-logstash-config]: https://github.com/looplab/logspout-logstash#available-configuration-options
 [logspout-ignore-logs]: https://github.com/gliderlabs/logspout#ignoring-specific-containers
+[moby-multiline]: https://github.com/moby/moby/issues/22920
