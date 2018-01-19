@@ -17,8 +17,7 @@ enableRobotsTXT = true # generate robots.txt
 # Syntax Highlighting ( https://gohugo.io/content-management/syntax-highlighting/ )
 pygmentsCodefences = true
 
-# Missing translations will default to this content language
-defaultContentLanguage = "en"
+defaultContentLanguage = "pl"
 
 enableEmoji = true
 
@@ -98,3 +97,4 @@ hrefTargetBlank = true
 lang = "pl"
 languageName = "Polski"
 weight = 1
+
