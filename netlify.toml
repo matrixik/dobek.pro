@@ -1,16 +1,25 @@
 [build]
 publish = "public"
+command = "make all"
+
+[build.environment]
+HUGO_VERSION = "0.36"
 
 [context.production.environment]
-HUGO_VERSION = "0.36"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
 
+[context.deploy-preview]
+command = "make netlify"
+
 [context.deploy-preview.environment]
-HUGO_VERSION = "0.36"
+HUGO_GOOGLEANALYTICS = "dev"
+
+[context.branch-deploy]
+command = "make netlify"
 
 [context.branch-deploy.environment]
-HUGO_VERSION = "0.36"
+HUGO_GOOGLEANALYTICS = "dev"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"

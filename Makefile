@@ -9,7 +9,7 @@ netlify: ## Build whole site for netlify
 	hugo -v --config $(CONFIG) --i18n-warnings -b ${DEPLOY_PRIME_URL}
 
 dev: ## For local development, rebuild site on change
-	hugo server --config $(CONFIG) --buildDrafts --buildFuture --i18n-warnings
+	hugo server --config $(CONFIG) --buildDrafts --buildFuture --i18n-warnings --navigateToChanged
 
 help:
 	@grep -E '^[a-zA-Z_-]+:.*?## .*$$' $(MAKEFILE_LIST) | sort | awk 'BEGIN {FS = ":.*?## "}; {printf "\033[36m%-21s\033[0m %s\n", $$1, $$2}'
