@@ -1,6 +1,7 @@
 .entry-content > p > code,
 li > code {
   background: Moccasin;
+  padding: 2px 3px;
 }
 
 .hidden {
