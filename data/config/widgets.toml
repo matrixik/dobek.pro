@@ -1,0 +1,8 @@
+# Search Widget config
+[search]
+title = "Znajdź"                      # default: "Search"
+
+# Social Menu Widget config
+[social_menu]
+title = ""                            # default: ""
+platforms = ["email", "github", "linkedin", "twitter", "gitlab"]
