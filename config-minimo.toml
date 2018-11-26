@@ -29,7 +29,7 @@ baseName = "rss"
 
 [params.info]
 description = "Trochę więcej wiedzy"
-title404 = "Tej wiedzy jeszcze nie mam"
+title404 = "404 - Tej wiedzy jeszcze nie mam"
 
 [params.assets]
 favicon = "favicon.ico"
