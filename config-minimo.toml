@@ -60,7 +60,7 @@ enable = true
 
 [params.widgets]
 homepage = ["recent_posts"]
-sidebar = ["about","search","sidebar_menu"]
+sidebar = ["about", "search", "sidebar_menu"]
 footer = ["social_menu"]
 
 [params.opengraph.facebook]
@@ -132,8 +132,8 @@ series = "series"
 tag = "tags"
 
 [permalinks]
-page = "/:slug/"
-blog = "/:year-:month-:slug/"
+pages = "/:slug/"
+posts = "/:year-:month-:slug/"
 
 [[menu.main]]
 name = "Repo"
