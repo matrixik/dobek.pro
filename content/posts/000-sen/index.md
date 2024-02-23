@@ -1,5 +1,6 @@
 +++
 draft = true
+
 title = 'Sen: melatonina, blue blockery i inne narzędzia'
 slug = 'sen-melatonina-blue-blockery-i-inne-narzedzia'
 description = ''
@@ -15,11 +16,9 @@ tags = ['otagować']
 
 ## Ochrona przed światłem
 
-
-
-RPE cell apoptosis (death) is greatest in the 415–455 nm range. 
+RPE cell apoptosis (death) is greatest in the 415-455 nm range.
 blue light hazard
-To uszkadzanie jest mocno osłabiane przez posiadanie pełnych zapasów DHA. W ludzkim organiźmie DHA wsytępuje w największym stężeniu w (retina) 
+To uszkadzanie jest mocno osłabiane przez posiadanie pełnych zapasów DHA. W ludzkim organiźmie DHA wsytępuje w największym stężeniu w (retina)
 (Photoreceptor cells in the retina have the highest DHA content of any cell type)
 
 ## Melatonina
@@ -32,10 +31,9 @@ Najlepiej żeby blokowały minimum do 570 nm.
 
 ## Analiza snu
 
-Oura Ring - pierścionek badający 
+Oura Ring - pierścionek badający
 
 Różne fit zegarki
-
 
 Łyżeczka do 2 łyżek miodu przed snem.
 

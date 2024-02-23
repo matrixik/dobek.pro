@@ -1,5 +1,6 @@
 +++
 draft = true
+
 title = 'Wydajny programista'
 slug = 'wydajny-programista'
 description = ''
@@ -14,7 +15,5 @@ tags = ['wydajność']
 
 Do zapamiętania, na podstawie:
 [From 10x programmer to 0.1x programmer: creating more with less][01-programmer]
-
-
 
 [01-programmer]: https://codewithoutrules.com/2016/08/25/the-01x-programmer/
