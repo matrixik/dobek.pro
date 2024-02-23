@@ -1,6 +1,7 @@
 +++
 title = "O mnie"
 description = "Kim jestem"
+type = 'page'
 menu = "main"
 weight = -210
 comments = false
