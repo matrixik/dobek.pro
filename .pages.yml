@@ -1,0 +1,31 @@
+media:
+  input: content/posts
+  output: /content/posts
+  categories: [ image ]
+content:
+  - name: posts
+    label: posts
+    type: collection
+    path: content/posts
+    view:
+      fields: [title, date, draft]
+    fields:
+        - name: date
+          label: Date
+          type: date
+        - name: title
+          label: Title
+          type: string
+        - name: description
+          label: Description
+          type: string
+        - name: tags
+          label: Tags
+          type: string
+        - name: body
+          label: Body
+          type: rich-text
+        - name: draft
+          label: draft
+          type: boolean
+          default: true
