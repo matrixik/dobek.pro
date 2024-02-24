@@ -85,3 +85,31 @@ content:
         label: Show comments
         type: boolean
       - {name: body, label: Body, type: rich-text}
+
+  - name: main
+    label: Strona główna
+    type: file
+    path: content/_index.md
+    fields:
+      - {name: title, label: Title, type: string}
+      - name: menu
+        label: Menu
+        type: string
+      - name: weight
+        label: Page weight
+        type: number
+      - {name: body, label: Body, type: rich-text}
+  
+  - name: blog
+    label: Strona bloga
+    type: file
+    path: content/posts/_index.md
+    fields:
+      - {name: title, label: Title, type: string}
+      - name: menu
+        label: Menu
+        type: string
+      - name: weight
+        label: Page weight
+        type: number
+      - {name: body, label: Body, type: rich-text}
