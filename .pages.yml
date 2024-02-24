@@ -84,6 +84,13 @@ content:
       - name: comments
         label: Show comments
         type: boolean
+      - name: images
+        label: Images
+        type: image
+        list: true
+        options:
+          input: content/pages
+          categories: [image]
       - {name: body, label: Body, type: rich-text}
 
   - name: main
