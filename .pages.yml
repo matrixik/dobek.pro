@@ -1,3 +1,5 @@
+# Config for https://app.pagescms.org/matrixik/dobek.pro/master/settings
+
 media:
   input: content/posts
   output: /content/posts
