@@ -34,6 +34,8 @@ content:
         - name: authors
           label: Authors
           type: string
+          list:
+            min: 1
           default: 
             - matrixik
         - name: categories
@@ -43,7 +45,8 @@ content:
         - name: tags
           label: Tags
           type: string
-          default: ['']
+          list:
+            min: 1
         - name: body
           label: Body
           type: rich-text
