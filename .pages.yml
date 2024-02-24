@@ -41,8 +41,12 @@ content:
         - name: categories
           label: Categories
           type: string
-          list:
-            min: 1
+          list: true
+          options:
+            values:
+              - DevOps
+              - Programowanie
+              - Technologia
         - name: tags
           label: Tags
           type: string
