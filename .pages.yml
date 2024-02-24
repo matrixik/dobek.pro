@@ -90,6 +90,7 @@ content:
     label: Strona główna
     type: file
     path: content/_index.md
+    format: toml-frontmatter
     fields:
       - {name: title, label: Title, type: string}
       - name: menu
@@ -104,6 +105,7 @@ content:
     label: Strona bloga
     type: file
     path: content/posts/_index.md
+    format: toml-frontmatter
     fields:
       - {name: title, label: Title, type: string}
       - name: menu
