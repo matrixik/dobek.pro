@@ -12,10 +12,6 @@ content:
     view:
       fields: [title, date, draft]
     fields:
-        - name: draft
-          label: draft
-          type: boolean
-          default: true
         - name: title
           label: Title
           type: string
@@ -42,12 +38,17 @@ content:
         - name: categories
           label: Categories
           type: string
-          hidden: true
+          list:
+            min: 1
         - name: tags
           label: Tags
           type: string
           list:
             min: 1
+        - name: draft
+          label: draft
+          type: boolean
+          default: true
         - name: body
           label: Body
           type: rich-text
