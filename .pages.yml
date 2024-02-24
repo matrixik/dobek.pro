@@ -4,6 +4,7 @@ media:
   input: content/posts
   output: /content/posts
   categories: [ image ]
+
 content:
   - name: posts
     label: posts
