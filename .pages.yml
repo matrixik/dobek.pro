@@ -33,6 +33,7 @@ content:
           type: date
         - name: authors
           label: Authors
+          hidden: true
           type: string
           list:
             min: 1
