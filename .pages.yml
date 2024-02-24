@@ -12,22 +12,38 @@ content:
     view:
       fields: [title, date, draft]
     fields:
-        - name: date
-          label: Date
-          type: date
-        - name: title
-          label: Title
-          type: string
-        - name: description
-          label: Description
-          type: string
-        - name: tags
-          label: Tags
-          type: string
-        - name: body
-          label: Body
-          type: rich-text
         - name: draft
           label: draft
           type: boolean
           default: true
+        - name: title
+          label: Title
+          type: string
+        - name: slug
+          label: Slug
+          type: string
+        - name: description
+          label: Description
+          type: string
+        - name: date
+          label: Date
+          type: date
+        - name: lastmod
+          label: Last mod date
+          type: date
+        - name: authors
+          label: Authors
+          type: string
+          default: 
+            - matrixik
+        - name: categories
+          label: Categories
+          type: string
+          hidden: true
+        - name: tags
+          label: Tags
+          type: string
+          default: ['']
+        - name: body
+          label: Body
+          type: rich-text
