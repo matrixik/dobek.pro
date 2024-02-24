@@ -25,7 +25,7 @@ content:
           label: Date
           type: date
         - name: lastmod
-          label: Last mod date
+          label: Last modification date
           type: date
         - name: authors
           label: Authors
