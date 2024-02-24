@@ -59,3 +59,27 @@ content:
         - name: body
           label: Body
           type: rich-text
+
+  - name: o-mnie
+    label: O mnie
+    type: file
+    path: content/pages/o-mnie.md
+    fields:
+      - {name: title, label: Title, type: string}
+      - {name: description, label: Description, type: string}
+      - name: type
+        label: Page type
+        type: string
+        default: page
+      - name: menu
+        label: Menu
+        type: string
+        default: main
+        hidden: true
+      - name: weight
+        label: Page weight
+        type: number
+      - name: comments
+        label: Show comments
+        type: boolean
+      - {name: body, label: Body, type: rich-text}
