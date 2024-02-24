@@ -72,6 +72,7 @@ content:
         label: Page type
         type: string
         default: page
+        hidden: true
       - name: menu
         label: Menu
         type: string
