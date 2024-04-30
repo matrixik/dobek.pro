@@ -11,6 +11,7 @@ content:
     type: collection
     path: content/posts
     format: toml-frontmatter
+    exclude: [_index.md]
     filename: "{year}-{month}-{day}-{primary}/index.md"
     view:
       fields: [title, date, draft]
