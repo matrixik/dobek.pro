@@ -37,4 +37,22 @@ RUN set -ex && \
     apt-get autoremove -y && \
     apt-get clean -y && \
     rm -rf /var/lib/apt/lists/*
+
+# Create non-root user
+RUN useradd --create-home appuser
+WORKDIR /home/appuser
+USER appuser
+
+# Create and use Python virtual env
+RUN python3.11 -m venv /home/appuser/venv
+ENV VIRTUAL_ENV="/home/appuser/venv" \
+    PATH="/home/appuser/venv/bin:$PATH"
+
+COPY requirements.txt requirements.txt
+COPY pip_constraints.txt ./pip_constraints.txt
+RUN pip install -c pip_constraints.txt -r requirements.txt
+
+COPY --chown=appuser:appuser main_entrypoint.py .
+
+CMD [ "valgrind", "python", "./main_entrypoint.py" ]
 ```
