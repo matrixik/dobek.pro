@@ -16,7 +16,7 @@ Problem: domyślny Dockerowy obraz Python-a nie pozwala na instalację Valgrind-
 Rozwiązanie: brakuje mu prawidłowych repozytoriów Debiana więc trzeba dodać je ręcznie na czas korzystania z Valgrind-a:
 
 ```docker
-FROM python:3.11.10
+FROM python:3.11.10-bookworm
 
 ENV PYTHONDONTWRITEBYTECODE=1 \
     PIP_DISABLE_PIP_VERSION_CHECK=1 \
