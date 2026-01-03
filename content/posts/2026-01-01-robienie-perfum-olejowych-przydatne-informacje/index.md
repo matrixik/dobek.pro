@@ -17,7 +17,7 @@ Robię perfumy olejowe bo takie wydają mi się bardziej intymne, mają mniejsz�
 
 ## Oleje bazowe
 
-Do testowania nowych mieszanek używam rozcieńczonych substancji (przeważnie 20% we FOK bo jest tańszy). Do gotowych perfum używam olej jojoba.
+Do testowania nowych mieszanek używam rozcieńczonych substancji, przeważnie 20% we frakcjonowanym oleju kokosowym (FOK) bo jest tańszy. Do gotowych perfum używam olej jojoba.
 
 ## Notatki o składnikach
 
