@@ -35,7 +35,7 @@ Przy mieszaniu perfum używam małych 0,2 ml jednorazowych pipet - osobną pipet
 
 ### Przygotowanie miejsca pracy
 
-Gdy zaczynasz mieszanie perfum, pamiętaj żeby coś podłożyć pod buteleczki - nie chcesz, żeby później biurko dziwnie pachniało. Może być to folia aluminiowa lub szklana płyta, którą później łatwo wyczyścisz alkoholem. Pamiętaj, że zawsze coś się rozleje lub wysypie, choć trochę.
+Gdy zaczynasz mieszanie perfum, pamiętaj żeby coś podłożyć pod buteleczki - nie chcesz, żeby później biurko dziwnie pachniało. Może być to folia lub szklana płyta, którą później łatwo wyczyścisz alkoholem. Pamiętaj, że zawsze coś się rozleje lub wysypie, choć trochę.
 
 ## Bezpieczeństwo - standard IFRA
 
