@@ -11,59 +11,32 @@ categories = [
 tags = ['perfumy', 'diy']
 +++
 
-Perfumy olejowe to doskonała alternatywa dla tradycyjnych perfum alkoholowych. Są one trwalsze, delikatniejsze dla skóry i łatwiejsze do wykonania w warunkach domowych.
+## Dlaczego perfumy olejowe
 
-## Podstawowe składniki
+Robię perfumy olejowe bo takie wydają mi się bardziej intymne, mają mniejszą projekcje zapachu. Zapach trzyma się bliżej skóry.
 
-Do stworzenia perfum olejowych potrzebujemy:
+## Oleje bazowe
 
-- **Olej bazowy** - np. olej jojoba, olej ze słodkich migdałów lub olej z pestek winogron
-- **Olejki eteryczne** - w zależności od preferencji zapachowych
-- **Buteleczki** - najlepiej ciemne szklane buteleczki z rolką (roll-on)
+Do testowania nowych mieszanek używam rozcieńczonych substancji (przeważnie 20% we FOK bo jest tańszy). Do gotowych perfum używam olej jojoba.
 
-## Piramida zapachowa
+## Notatki o składnikach
 
-Perfumy składają się z trzech warstw zapachowych:
+### Labdanum (czystek) absolut
 
-1. **Nuta głowy** (top notes) - pierwsza, najbardziej ulotna warstwa, utrzymuje się 15-30 minut
-2. **Nuta serca** (middle notes) - główny charakter perfum, utrzymuje się 2-4 godziny
-3. **Nuta bazy** (base notes) - najtrwalsza warstwa, utrzymuje się nawet kilka dni
+Rozcieńczony we frakcjonowanym oleju kokosowym (FOK) po kilka dniach się rozdziela i opada. Przed użyciem do gotowych perfum wystarczy zamieszać i jak się zmaceruje z innymi składnikami to już nie widzę tego problemu.
 
-## Proporcje
+### Coumarin
 
-Klasyczne proporcje dla perfum olejowych:
+Nie chciał się początkowo rozpuścić w FOK. Ale po 3-4 tygodniach rozpuścił się całkowicie (5% mieszanka). Z tego co czytałem w internecie IPM nie nadaje się do jego rozcieńczania bo szybko ulega w nim ponownej krystalizacji.
 
-- 30% nuty głowy
-- 50% nuty serca
-- 20% nuty bazy
+### Ethyl vanillin
 
-## Podstawowy przepis
+Nie rozcieńczenia się we FOK, bardzo szybko opada na dno. Podejrzewam że kryształki vanilliny mają ten sam problem więc nie próbowałem ich rozcieńczać.
 
-1. Wybierz buteleczkę o pojemności 10ml
-2. Dodaj 8-9ml oleju bazowego
-3. Dodaj olejki eteryczne:
-   - 6 kropli nuty głowy
-   - 10 kropli nuty serca
-   - 4 krople nuty bazy
-4. Zamknij buteleczkę i dokładnie wymieszaj
-5. Pozostaw na 48 godzin, aby zapachy się połączyły
-6. Przetestuj i w razie potrzeby dostosuj proporcje
+### DEP (Diethyl phthalate)
 
-## Przykładowe kompozycje
+Dep nie miesza się z olejami więc pamiętaj żeby nie kupować składników już w nim rozcieńczonych.
 
-### Świeża i kwiatowa
-- Nuta głowy: bergamotka
-- Nuta serca: lawenda, jaśmin
-- Nuta bazy: wetiweria
+## Do sprawdzenia
 
-### Ciepła i korzenna
-- Nuta głowy: pomarańcza
-- Nuta serca: cynamon, goździki
-- Nuta bazy: paczula, wanilia
-
-## Wskazówki
-
-- Zawsze testuj na małym fragmencie skóry przed pełnym użyciem
-- Przechowuj perfumy w ciemnym, chłodnym miejscu
-- Prowadź notatki o swoich recepturach, aby móc je powtórzyć
-- Pozwól perfumom "dojrzeć" przez co najmniej 48 godzin przed użyciem
+Triethyl citrate (TEC) ładnie miesza się z FOK ale mieszając się z olejem jojoba powoduje zamglenie mieszanki.
