@@ -58,10 +58,10 @@ Do perfum dodaję również witaminę E, żeby wydłużyć ich trwałość i chr
 ### Sklepy w Polsce
 
 Korzystam z czterech sklepów do kupowania substancji zapachowych:
-- perfumiarz.pl
-- ukrecone.com
-- esencya.pl
-- lawendy.pl (niestety ten ostatni nie udostępnia dokumentów IFRA)
+- <perfumiarz.pl>
+- <ukrecone.com>
+- <esencya.pl>
+- <lawendy.pl> (niestety ten nie udostępnia dokumentów IFRA)
 
 ### AliExpress
 
