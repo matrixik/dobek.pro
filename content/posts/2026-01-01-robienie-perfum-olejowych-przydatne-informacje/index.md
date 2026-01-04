@@ -91,6 +91,29 @@ Naturalne olejki mogą się różnić zapachem w zależności od dostawcy, a naw
 
 Niektóre substancje mają tak silny zapach, że praktycznie nie da się ich używać nierozcieńczonych.
 
+### Mit naturalności
+
+Tylko dlatego, że coś jest naturalne, nie znaczy, że jest bezpieczniejsze od sztucznych składników. Często naturalne składniki są dużo bardziej ograniczone w końcowym produkcie. Przykładem są cytrusy, które są fototoksyczne (potrafią powodować przebarwienia skóry pod wpływem słońca) i są bardzo mocno ograniczone przez IFRA.
+
+## Akordy zapachowe
+
+W perfumach przeważnie nie używamy olejków zapachowych, bo są za słabe w porównaniu z resztą składników. Rozwiązaniem są tzw. **akordy** - staramy się uzyskać jakiś zapach z wielu różnych składników.
+
+Pracuje się nad nimi samodzielnie albo szuka w internecie (głównie po angielsku) wpisując: "nazwa zapachu accord". Bardzo dużo akordów jest udostępnionych na <https://olfactorian.com/>.
+
+## Źródła wiedzy
+
+Po polsku jest raczej mało informacji o tworzeniu perfum, dlatego głównie szukam odpowiedzi na moje pytania po angielsku.
+
+Dobre źródła informacji:
+- <https://www.reddit.com/r/DIYfragrance/> - społeczność DIY perfumiarstwa
+- Forum <https://basenotes.com/forums/#making-and-understanding-fragrance.290> - **Ważne:** jeśli sam piszesz/pytasz o coś na tych stronach, zawsze zwróć uwagę, że robisz perfumy olejowe, a nie w alkoholu (jak przeważnie większość komentujących robi w domyśle)
+- <https://www.fragrantica.com/> - dobre miejsce do szukania inspiracji zapachowych, opisuje perfumy i nuty jakie użytkownicy w nich wyczuwają
+
+## Uwagi ekologiczne
+
+Galaxolide oraz wszystkie polycykliczne piżma, takie jak Tonalide (Fixolide, Musk Tetralin), Traseolide, Celestolide (Musk Dimethyl Indane, Esperone), Phantolide nie są biodegradowalne - unikam ich przez to.
+
 ## Notatki o składnikach
 
 ### Labdanum (czystek) absolut
