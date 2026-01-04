@@ -29,7 +29,7 @@ Niestety, dodając czegoś bardzo mało, wagi mogą nie zarejestrować dodania j
 
 ### Dokumentowanie eksperymentów
 
-Zapisuj wszystko co robisz - każdy test, każdą próbę. Nigdy nie ma pewności jaki będzie efekt końcowy, a jeśli wyjdzie coś naprawdę dobrego, łatwo będzie odtworzyć to co zrobiłeś, skalując wagę do większej ilości. Możesz wszystko zapisywać w zwykłym notatniku, ja osobiście używam darmowej strony <https://molequles.app/>.
+Zapisuj wszystko co robisz - każdy test, każdą próbę. Nigdy nie ma pewności jaki będzie efekt końcowy, a jeśli wyjdzie coś naprawdę dobrego, łatwo będzie odtworzyć to co zrobiłeś, skalując wagę do większej ilości. Możesz wszystko zapisywać w zwykłym notatniku, ja osobiście używam darmowej strony [molequles.app](https://molequles.app/).
 
 ### Pipety
 
@@ -41,7 +41,7 @@ Gdy zaczynasz mieszanie perfum, pamiętaj żeby coś podłożyć pod buteleczki 
 
 ### Nakrętki polycone
 
-Zarówno ukrecone.com jak i lawendy.pl przesyłają składniki w butelkach z zakraplaczami. Wyrzucam te zakraplacze i nakrętki, zamieniając je na nakrętki typu polycone - dzięki temu łatwo mogę się dostać pipetami do środka, a jednocześnie butelki są szczelne. Takie nakrętki można dostać w sklepie <perfumiarz.pl> (jeśli nie ma na stronie, można do nich napisać).
+Zarówno ukrecone.com jak i lawendy.pl przesyłają składniki w butelkach z zakraplaczami. Wyrzucam te zakraplacze i nakrętki, zamieniając je na nakrętki typu polycone - dzięki temu łatwo mogę się dostać pipetami do środka, a jednocześnie butelki są szczelne. Takie nakrętki można dostać w sklepie [perfumiarz.pl](https://perfumiarz.pl) (jeśli nie ma na stronie, można do nich napisać).
 
 ### Balansowanie zapachów
 
@@ -76,10 +76,10 @@ Do perfum dodaję również witaminę E, żeby wydłużyć ich trwałość i chr
 ### Sklepy w Polsce
 
 Korzystam z czterech sklepów do kupowania substancji zapachowych:
-- <perfumiarz.pl>
-- <ukrecone.com>
-- <esencya.pl>
-- <lawendy.pl> (niestety ten nie udostępnia dokumentów IFRA)
+- [perfumiarz.pl](https://perfumiarz.pl)
+- [ukrecone.com](https://ukrecone.com)
+- [esencya.pl](https://esencya.pl)
+- [lawendy.pl](https://lawendy.pl) (niestety ten nie udostępnia dokumentów IFRA)
 
 ### AliExpress
 
@@ -99,16 +99,16 @@ Tylko dlatego, że coś jest naturalne, nie znaczy, że jest bezpieczniejsze od 
 
 W perfumach przeważnie nie używamy olejków zapachowych, bo są za słabe w porównaniu z resztą składników. Rozwiązaniem są tzw. **akordy** - staramy się uzyskać jakiś zapach z wielu różnych składników.
 
-Pracuje się nad nimi samodzielnie albo szuka w internecie (głównie po angielsku) wpisując: "nazwa zapachu accord". Bardzo dużo akordów jest udostępnionych na <https://olfactorian.com/>.
+Pracuje się nad nimi samodzielnie albo szuka w internecie (głównie po angielsku) wpisując: "nazwa zapachu accord". Bardzo dużo akordów jest udostępnionych na [olfactorian.com](https://olfactorian.com/).
 
 ## Źródła wiedzy
 
 Po polsku jest raczej mało informacji o tworzeniu perfum, dlatego głównie szukam odpowiedzi na moje pytania po angielsku.
 
 Dobre źródła informacji:
-- <https://www.reddit.com/r/DIYfragrance/> - społeczność DIY perfumiarstwa
-- Forum <https://basenotes.com/forums/#making-and-understanding-fragrance.290>
-- <https://www.fragrantica.com/> - dobre miejsce do szukania inspiracji zapachowych, opisuje perfumy i nuty jakie użytkownicy w nich wyczuwają
+- [reddit.com/r/DIYfragrance](https://www.reddit.com/r/DIYfragrance/) - społeczność DIY perfumiarstwa
+- Forum [basenotes.com/forums](https://basenotes.com/forums/#making-and-understanding-fragrance.290)
+- [fragrantica.com](https://www.fragrantica.com/) - dobre miejsce do szukania inspiracji zapachowych, opisuje perfumy i nuty jakie użytkownicy w nich wyczuwają
 
 **Ważne:** jeśli sam piszesz/pytasz o coś na Reddit lub Basenotes, zawsze zwróć uwagę, że robisz perfumy olejowe, a nie w alkoholu (jak przeważnie większość komentujących robi w domyśle).
 
