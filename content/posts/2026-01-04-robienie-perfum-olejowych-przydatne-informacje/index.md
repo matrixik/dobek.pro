@@ -76,6 +76,7 @@ Do perfum dodaję również witaminę E, żeby wydłużyć ich trwałość i chr
 ### Sklepy w Polsce
 
 Korzystam z czterech sklepów do kupowania substancji zapachowych:
+
 - [perfumiarz.pl](https://perfumiarz.pl)
 - [ukrecone.com](https://ukrecone.com)
 - [esencya.pl](https://esencya.pl)
@@ -106,6 +107,7 @@ Pracuje się nad nimi samodzielnie albo szuka w internecie (głównie po angiels
 Po polsku jest raczej mało informacji o tworzeniu perfum, dlatego głównie szukam odpowiedzi na moje pytania po angielsku.
 
 Dobre źródła informacji:
+
 - [reddit.com/r/DIYfragrance](https://www.reddit.com/r/DIYfragrance/) - społeczność DIY perfumiarstwa
 - Forum [basenotes.com/forums](https://basenotes.com/forums/#making-and-understanding-fragrance.290)
 - [fragrantica.com](https://www.fragrantica.com/) - dobre miejsce do szukania inspiracji zapachowych, opisuje perfumy i nuty jakie użytkownicy w nich wyczuwają
