@@ -25,6 +25,8 @@ Do testowania nowych mieszanek używam rozcieńczonych substancji (olejków, pro
 
 W perfumiarstwie pracuje się na dokładnej wadze produktów, nie na kroplach. Polecam wagę jubilerską - wystarczy dokładność do 0.01 grama, ale lepsza będzie 0.001 grama. Precyzyjna waga przydaje się zwłaszcza przy testowaniu nowych zapachów, kiedy robisz małe ilości gotowej mieszanki.
 
+Niestety, dodając czegoś bardzo mało, wagi mogą nie zarejestrować dodania jednej kropli. Zapisuję wtedy na oko ile mniej więcej to będzie wagi - na przykład widzę, że 3 krople to będą około 40 miligramów. Chodzi o to, żeby później skalując i robiąc większą partię, mniej więcej wiedzieć jaką ilość trzeba pomnożyć.
+
 ### Dokumentowanie eksperymentów
 
 Zapisuj wszystko co robisz - każdy test, każdą próbę. Nigdy nie ma pewności jaki będzie efekt końcowy, a jeśli wyjdzie coś naprawdę dobrego, łatwo będzie odtworzyć to co zrobiłeś, skalując wagę do większej ilości. Możesz wszystko zapisywać w zwykłym notatniku, ja osobiście używam darmowej strony <https://molequles.app/>.
@@ -36,6 +38,20 @@ Przy mieszaniu perfum używam małych 0,2 ml jednorazowych pipet - osobną pipet
 ### Przygotowanie miejsca pracy
 
 Gdy zaczynasz mieszanie perfum, pamiętaj żeby coś podłożyć pod buteleczki - nie chcesz, żeby później biurko dziwnie pachniało. Może być to folia lub szklana płyta, którą później łatwo wyczyścisz alkoholem. Pamiętaj, że zawsze coś się rozleje lub wysypie, choć trochę.
+
+### Nakrętki polycone
+
+Zarówno ukrecone.com jak i lawendy.pl przesyłają składniki w butelkach z zakraplaczami. Wyrzucam te zakraplacze i nakrętki, zamieniając je na nakrętki typu polycone - dzięki temu łatwo mogę się dostać pipetami do środka, a jednocześnie butelki są szczelne. Takie nakrętki można dostać w sklepie perfumiarz.pl (jeśli nie ma na stronie, można do nich napisać).
+
+### Balansowanie zapachów
+
+Kiedy balansuję materiały ze sobą, używam do tego papieru do akwareli. Najpierw daję po jednej kropli każdego zapachu i wącham, jak ze sobą współgrają. Następnie, jeśli jeden materiał jest zbyt silny, dodaję kroplę materiału słabszego do momentu, aż jestem zadowolony z efektu końcowego (pamiętaj o zapisywaniu wszystkiego!).
+
+W tym wypadku możemy pracować na kroplach, bo liczy się bardziej współczynnik pomiędzy testowanymi zapachami. Jeśli stosunek to 1:3 krople, to wiem, że jak dodam jednej substancji 1g, to drugiej muszę dodać 3g w gotowym produkcie, żeby te zapachy zbilansować.
+
+## Maceracja
+
+Po zmieszaniu trzeba odstawić perfumy na minimum 24-48 godzin, żeby przeszły proces maceracji (mieszania się). Dopiero wtedy ma sens sprawdzać, jaki mają zapach.
 
 ## Bezpieczeństwo - standard IFRA
 
@@ -67,6 +83,12 @@ Korzystam z czterech sklepów do kupowania substancji zapachowych:
 
 Nie kupuję substancji zapachowych na AliExpress - nigdy nie masz pewności co dostaniesz i nie stosują się do standardu IFRA. Za to AliExpress jest dobrym źródłem akcesoriów, takich jak pipety, blottery (paski testowe) czy buteleczki, których jest tam większy wybór niż w Polsce.
 
+## Naturalne vs syntetyczne składniki
+
+Naturalne olejki mogą się różnić zapachem w zależności od dostawcy, a nawet od tego samego dostawcy, tylko kupowanego w różnych okresach. Sztuczne molekuły nie mają tego problemu - zawsze pachną tak samo.
+
+Niektóre substancje mają tak silny zapach, że praktycznie nie da się ich używać nierozcieńczonych.
+
 ## Notatki o składnikach
 
 ### Labdanum (czystek) absolut
@@ -84,6 +106,10 @@ Nie rozcieńczenia się we FOK, bardzo szybko opada na dno. Podejrzewam że krys
 ### DEP (Diethyl phthalate)
 
 Dep nie miesza się z olejami więc pamiętaj żeby nie kupować składników już w nim rozcieńczonych.
+
+### Evernyl/Veramoss
+
+Nie rozpuszcza się w IPM.
 
 ## Do sprawdzenia
 
