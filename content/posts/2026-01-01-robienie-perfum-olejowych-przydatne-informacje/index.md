@@ -107,8 +107,10 @@ Po polsku jest raczej mało informacji o tworzeniu perfum, dlatego głównie szu
 
 Dobre źródła informacji:
 - <https://www.reddit.com/r/DIYfragrance/> - społeczność DIY perfumiarstwa
-- Forum <https://basenotes.com/forums/#making-and-understanding-fragrance.290> - **Ważne:** jeśli sam piszesz/pytasz o coś na tych stronach, zawsze zwróć uwagę, że robisz perfumy olejowe, a nie w alkoholu (jak przeważnie większość komentujących robi w domyśle)
+- Forum <https://basenotes.com/forums/#making-and-understanding-fragrance.290>
 - <https://www.fragrantica.com/> - dobre miejsce do szukania inspiracji zapachowych, opisuje perfumy i nuty jakie użytkownicy w nich wyczuwają
+
+**Ważne:** jeśli sam piszesz/pytasz o coś na Reddit lub Basenotes, zawsze zwróć uwagę, że robisz perfumy olejowe, a nie w alkoholu (jak przeważnie większość komentujących robi w domyśle).
 
 ## Uwagi ekologiczne
 
