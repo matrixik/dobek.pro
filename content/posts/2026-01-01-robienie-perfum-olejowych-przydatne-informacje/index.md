@@ -57,7 +57,7 @@ Po zmieszaniu trzeba odstawić perfumy na minimum 24-48 godzin, żeby przeszły 
 
 ## Bezpieczeństwo - standard IFRA
 
-Bezpieczeństwo przede wszystkim, dlatego staram się we wszystkich formułach stosować standard IFRA. Standard ten mówi, jaka jest zalecana maksymalna ilość różnych substancji w gotowej mieszance. Część sklepów udostępnia te informacje o większości swoich sprzedawanych substancji. Jeśli sklep tego nie udostępnia, przeważnie wystarczy poszukać te informacje w internecie - na przykład wpisując nazwę substancji z dopiskiem "IFRA".
+Bezpieczeństwo przede wszystkim, dlatego staram się we wszystkich formułach stosować standard [IFRA](https://ifrafragrance.org/). Standard ten mówi, jaka jest zalecana maksymalna ilość różnych substancji w gotowej mieszance. Część sklepów udostępnia te informacje o większości swoich sprzedawanych substancji. Jeśli sklep tego nie udostępnia, przeważnie wystarczy poszukać te informacje w internecie - na przykład wpisując nazwę substancji z dopiskiem "IFRA".
 
 Trzeba pamiętać, że to, że coś jest poniżej limitu IFRA, nie znaczy, że ktoś nie może być uczulony na daną substancję. Tak jak np. moja mama reaguje na miętę mimo że dbam o to żeby być poniżej limitu IFRA dla niej. Przy produkcji perfum patrzymy na **kategorię 4 IFRA** (produkty kosmetyczne pozostające na skórze).
 
