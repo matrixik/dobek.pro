@@ -25,7 +25,7 @@ Do testowania nowych mieszanek używam rozcieńczonych substancji (olejków, pro
 
 W perfumiarstwie pracuje się na dokładnej wadze produktów, nie na kroplach. Polecam wagę jubilerską - wystarczy dokładność do 0.01 grama, ale lepsza będzie 0.001 grama. Precyzyjna waga przydaje się zwłaszcza przy testowaniu nowych zapachów, kiedy robisz małe ilości gotowej mieszanki.
 
-Niestety, dodając czegoś bardzo mało, wagi mogą nie zarejestrować dodania jednej kropli. Zapisuję wtedy na oko ile mniej więcej to będzie wagi - na przykład widzę, że 3 krople to będą około 40 miligramów. Chodzi o to, żeby później skalując i robiąc większą partię, mniej więcej wiedzieć jaką ilość trzeba pomnożyć.
+Niestety, dodając czegoś bardzo mało, wagi mogą nie zarejestrować dodania jednej kropli. Zapisuję wtedy na oko ile mniej więcej to będzie wagi - bo na przykład widzę, że 3 krople to będą około 40 miligramów innych substancji. Chodzi o to, żeby później skalując i robiąc większą partię, mniej więcej wiedzieć jaką ilość trzeba pomnożyć.
 
 ### Dokumentowanie eksperymentów
 
@@ -41,7 +41,7 @@ Gdy zaczynasz mieszanie perfum, pamiętaj żeby coś podłożyć pod buteleczki 
 
 ### Nakrętki polycone
 
-Zarówno ukrecone.com jak i lawendy.pl przesyłają składniki w butelkach z zakraplaczami. Wyrzucam te zakraplacze i nakrętki, zamieniając je na nakrętki typu polycone - dzięki temu łatwo mogę się dostać pipetami do środka, a jednocześnie butelki są szczelne. Takie nakrętki można dostać w sklepie perfumiarz.pl (jeśli nie ma na stronie, można do nich napisać).
+Zarówno ukrecone.com jak i lawendy.pl przesyłają składniki w butelkach z zakraplaczami. Wyrzucam te zakraplacze i nakrętki, zamieniając je na nakrętki typu polycone - dzięki temu łatwo mogę się dostać pipetami do środka, a jednocześnie butelki są szczelne. Takie nakrętki można dostać w sklepie <perfumiarz.pl> (jeśli nie ma na stronie, można do nich napisać).
 
 ### Balansowanie zapachów
 
@@ -59,7 +59,7 @@ Po zmieszaniu trzeba odstawić perfumy na minimum 24-48 godzin, żeby przeszły 
 
 Bezpieczeństwo przede wszystkim, dlatego staram się we wszystkich formułach stosować standard IFRA. Standard ten mówi, jaka jest zalecana maksymalna ilość różnych substancji w gotowej mieszance. Część sklepów udostępnia te informacje o większości swoich sprzedawanych substancji. Jeśli sklep tego nie udostępnia, przeważnie wystarczy poszukać te informacje w internecie - na przykład wpisując nazwę substancji z dopiskiem "IFRA".
 
-Trzeba pamiętać, że to, że coś jest poniżej limitu IFRA, nie znaczy, że ktoś nie może być uczulony na daną substancję. Przy produkcji perfum patrzymy na **kategorię 4 IFRA** (produkty kosmetyczne pozostające na skórze).
+Trzeba pamiętać, że to, że coś jest poniżej limitu IFRA, nie znaczy, że ktoś nie może być uczulony na daną substancję. Tak jak np. moja mama reaguje na miętę mimo że dbam o to żeby być poniżej limitu IFRA dla niej. Przy produkcji perfum patrzymy na **kategorię 4 IFRA** (produkty kosmetyczne pozostające na skórze).
 
 ## Przedłużanie trwałości perfum
 
@@ -83,7 +83,7 @@ Korzystam z czterech sklepów do kupowania substancji zapachowych:
 
 ### AliExpress
 
-Nie kupuję substancji zapachowych na AliExpress - nigdy nie masz pewności co dostaniesz i nie stosują się do standardu IFRA. Za to AliExpress jest dobrym źródłem akcesoriów, takich jak pipety, blottery (paski testowe) czy buteleczki, których jest tam większy wybór niż w Polsce.
+Nie kupuję substancji zapachowych na AliExpress - nigdy nie masz pewności co dostaniesz i nie stosują się do standardów bezpieczeństwa jakie mamy w Europie. Za to AliExpress jest dobrym źródłem akcesoriów, takich jak pipety, blottery (paski testowe) czy buteleczki, których jest tam większy wybór niż w Polsce.
 
 ## Naturalne vs syntetyczne składniki
 
