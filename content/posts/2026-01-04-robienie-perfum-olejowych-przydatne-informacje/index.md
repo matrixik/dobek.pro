@@ -2,8 +2,8 @@
 title = 'Robienie perfum olejowych, przydatne informacje'
 slug = 'robienie-perfum-olejowych-przydatne-informacje'
 description = ''
-date = '2026-01-01'
-lastmod = '2026-01-01'
+date = '2026-01-04'
+lastmod = '2026-01-04'
 authors = ['matrixik']
 categories = [
   'hobby'
