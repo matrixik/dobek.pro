@@ -114,7 +114,7 @@ Dobre źródła informacji:
 
 ## Uwagi ekologiczne
 
-Galaxolide oraz wszystkie polycykliczne piżma, takie jak Tonalide (Fixolide, Musk Tetralin), Traseolide, Celestolide (Musk Dimethyl Indane, Esperone), Phantolide nie są biodegradowalne - unikam ich przez to.
+Galaxolide oraz wszystkie polycykliczne piżma, takie jak Tonalide (Fixolide, Musk Tetralin), Traseolide, Celestolide (Musk Dimethyl Indane, Esperone), Phantolide - ich biodegradacja trwa ponad 10 lat, dlatego ich unikam.
 
 ## Notatki o składnikach
 
