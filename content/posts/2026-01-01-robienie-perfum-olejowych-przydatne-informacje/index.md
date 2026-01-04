@@ -45,6 +45,8 @@ Zarówno ukrecone.com jak i lawendy.pl przesyłają składniki w butelkach z zak
 
 ### Balansowanie zapachów
 
+Ta technika to uproszczona wersja metody Jean Carles, nazwana od jej pomysłodawcy.
+
 Kiedy balansuję materiały ze sobą, używam do tego papieru do akwareli. Najpierw daję po jednej kropli każdego zapachu i wącham, jak ze sobą współgrają. Następnie, jeśli jeden materiał jest zbyt silny, dodaję kroplę materiału słabszego do momentu, aż jestem zadowolony z efektu końcowego (pamiętaj o zapisywaniu wszystkiego!).
 
 W tym wypadku możemy pracować na kroplach, bo liczy się bardziej współczynnik pomiędzy testowanymi zapachami. Jeśli stosunek to 1:3 krople, to wiem, że jak dodam jednej substancji 1g, to drugiej muszę dodać 3g w gotowym produkcie, żeby te zapachy zbilansować.
