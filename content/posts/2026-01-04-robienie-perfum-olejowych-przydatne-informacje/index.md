@@ -3,7 +3,7 @@ title = 'Robienie perfum olejowych, przydatne informacje'
 slug = 'robienie-perfum-olejowych-przydatne-informacje'
 description = ''
 date = '2026-01-04'
-lastmod = '2026-01-04'
+lastmod = '2026-01-23'
 authors = ['matrixik']
 categories = [
   'hobby'
@@ -132,14 +132,14 @@ Nie chciał się początkowo rozpuścić w FOK. Ale po 3-4 tygodniach rozpuści�
 
 Nie rozcieńczenia się we FOK, bardzo szybko opada na dno. Podejrzewam że kryształki vanilliny mają ten sam problem więc nie próbowałem ich rozcieńczać.
 
-### DEP (Diethyl phthalate)
-
-Dep nie miesza się z olejami więc pamiętaj żeby nie kupować składników już w nim rozcieńczonych.
-
 ### Evernyl/Veramoss
 
 Nie rozpuszcza się w IPM.
 
-## Do sprawdzenia
+### DEP (Diethyl phthalate)
 
-Triethyl citrate (TEC) ładnie miesza się z FOK ale mieszając się z olejem jojoba powoduje zamglenie mieszanki.
+Dep nie miesza się z olejami więc pamiętaj żeby nie kupować składników już w nim rozcieńczonych.
+
+## TEC (Triethyl citrate)
+
+Ładnie miesza się z FOK ale nie miesza się z olejem jojoba, rozwarstwia się.
