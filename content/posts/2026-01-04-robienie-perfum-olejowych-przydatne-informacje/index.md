@@ -140,6 +140,6 @@ Nie rozpuszcza się w IPM.
 
 Dep nie miesza się z olejami więc pamiętaj żeby nie kupować składników już w nim rozcieńczonych.
 
-## TEC (Triethyl citrate)
+### TEC (Triethyl citrate)
 
 Ładnie miesza się z FOK ale nie miesza się z olejem jojoba, rozwarstwia się.
