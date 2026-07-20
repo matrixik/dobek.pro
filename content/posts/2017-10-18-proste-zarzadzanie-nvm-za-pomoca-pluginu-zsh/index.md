@@ -3,7 +3,7 @@ title = 'Proste zarzadzanie NVM za pomocą pluginu Zsh'
 slug = 'proste-zarzadzanie-nvm-za-pomoca-pluginu-zsh'
 description = ''
 date = '2017-10-18'
-lastmod = '2017-10-18'
+lastmod = '2025-07-20'
 authors = ['matrixik']
 categories = [
   'Programowanie'
@@ -24,6 +24,7 @@ Do łatwiejszego zarządzania wtyczkami dla Zsh wykorzystuję [zplug][zplug].
 ## Konfiguracja i instalacja
 
 W pliku `.zshrc` dodajemy:
+
 ```bash
 # Sprawdzamy czy zplug jest zainstalowany
 if [[ ! -d ~/.zplug ]]; then
@@ -74,7 +75,7 @@ Eksportuję tutaj również dwie zmienne środowiskowe:
 
 **Aktualizacja do ostatnie stabilnej wersji Node:**
 
-`nvm install lts/* --reinstall-packages-from=node`
+`nvm install lts/* --reinstall-packages-from=node --latest-npm`
 
 **Ustawianie domyślnej stabilnej wersji Node:**
 
