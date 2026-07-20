@@ -3,7 +3,7 @@ title = 'Proste zarzadzanie NVM za pomocą pluginu Zsh'
 slug = 'proste-zarzadzanie-nvm-za-pomoca-pluginu-zsh'
 description = ''
 date = '2017-10-18'
-lastmod = '2025-07-20'
+lastmod = '2026-07-20'
 authors = ['matrixik']
 categories = [
   'Programowanie'
