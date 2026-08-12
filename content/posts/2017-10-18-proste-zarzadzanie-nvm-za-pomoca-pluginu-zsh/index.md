@@ -75,11 +75,11 @@ Eksportuję tutaj również dwie zmienne środowiskowe:
 
 **Aktualizacja do ostatnie stabilnej wersji Node:**
 
-`nvm install lts/* --reinstall-packages-from=node --latest-npm`
+`nvm install --lts --reinstall-packages-from=node --latest-npm --default`
 
 **Ustawianie domyślnej stabilnej wersji Node:**
 
-`nvm alias default lts/*`
+`nvm alias default stable`
 
 Jako bonus mamy również lepsze autouzupełnianie w terminalu do NPM dzięki
 [zsh-better-npm-completion][npm-completion].
